@@ -1,0 +1,6 @@
+@SmartLife_HostAddress = http://localhost:5225
+
+GET {{SmartLife_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
