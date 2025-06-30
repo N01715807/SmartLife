@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartLife")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+281d6be51c005800d3cad3bc23a29fae6aad52e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4162b529f2f36859d0c45635348674ae004034e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartLife")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartLife")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

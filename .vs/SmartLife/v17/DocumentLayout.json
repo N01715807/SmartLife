@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\controllers\\smartlifeclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\controllers\\smartlifeclassescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\models\\smartlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\models\\smartlife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\smartlife.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\smartlife.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\views\\smartlifeclasses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\views\\smartlifeclasses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Migrations\\20250630092700_InitSmartLife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmartLife\\Migrations\\20250630092700_InitSmartLife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|c:\\users\\lipen\\onedrive\\desktop\\personal works\\smartlife\\smartlife\\smartlife.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77099157-4BD9-4D71-B612-F73ED5319125}|SmartLife\\SmartLife.csproj|solutionrelative:smartlife\\smartlife.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,12 +46,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SmartLife\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SmartLife\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T10:41:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Views\\SmartLifeClasses\\Index.cshtml",
+              "RelativeDocumentMoniker": "SmartLife\\Views\\SmartLifeClasses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Views\\SmartLifeClasses\\Index.cshtml",
+              "RelativeToolTip": "SmartLife\\Views\\SmartLifeClasses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T10:27:31.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SmartLife",
+              "Title": "SmartLifeClassesController.cs",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Controllers\\SmartLifeClassesController.cs",
+              "RelativeDocumentMoniker": "SmartLife\\Controllers\\SmartLifeClassesController.cs",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Controllers\\SmartLifeClassesController.cs",
+              "RelativeToolTip": "SmartLife\\Controllers\\SmartLifeClassesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:03:27.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250630092700_InitSmartLife.cs",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Migrations\\20250630092700_InitSmartLife.cs",
+              "RelativeDocumentMoniker": "SmartLife\\Migrations\\20250630092700_InitSmartLife.cs",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Migrations\\20250630092700_InitSmartLife.cs",
+              "RelativeToolTip": "SmartLife\\Migrations\\20250630092700_InitSmartLife.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:27:01.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartLife\\appsettings.json",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\appsettings.json",
+              "RelativeToolTip": "SmartLife\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T07:31:42.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartLife\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "SmartLife\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T07:00:46.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SmartLife.csproj",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\SmartLife.csproj",
               "RelativeDocumentMoniker": "SmartLife\\SmartLife.csproj",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\SmartLife.csproj",
@@ -39,26 +141,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "SmartLife.cs",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Models\\SmartLife.cs",
               "RelativeDocumentMoniker": "SmartLife\\Models\\SmartLife.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Models\\SmartLife.cs",
               "RelativeToolTip": "SmartLife\\Models\\SmartLife.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T21:23:37.522Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Program.cs",
               "RelativeDocumentMoniker": "SmartLife\\Program.cs",
               "ToolTip": "C:\\Users\\lipen\\OneDrive\\Desktop\\Personal Works\\SmartLife\\SmartLife\\Program.cs",
               "RelativeToolTip": "SmartLife\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-29T05:09:38.989Z",
               "EditorCaption": ""
