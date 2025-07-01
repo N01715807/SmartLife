@@ -56,6 +56,14 @@ namespace SmartLife.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create([Bind("Id,Name,Age,Occupation,Money,Mood,Personality,Familybond,LastUpdated")] SmartLifeClass smartLifeClass)
         {
+            if (smartLifeClass.Age < 0 || smartLifeClass.Age > 100)
+            { ModelState.AddModelError("Age", "Age must be between 0 and 100");
+            }
+
+            if (smartLifeClass.Monthly_salary < 0)
+            { ModelState.AddModelError("Monthly_salary", "Monthly_salary cannot be negative.");
+            }
+
             if (ModelState.IsValid)
             {
                 _context.Add(smartLifeClass);
