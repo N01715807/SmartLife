@@ -8,6 +8,9 @@
 
 <p>
     <a asp-action="Create">Create New</a>
+    Sort by Score:
+    <a asp-action="Index" asp-route-sortOrder="score_asc">Low → High</a>
+    <a asp-action="Index" asp-route-sortOrder="score_desc">High → Low</a>
 </p>
 <table class="table">
     <thead>
@@ -47,35 +50,35 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Name)
             </td>
-                <th>@item.CalculateScore()</th>
+                <td>@Utils.CalculateScore(item)</td>
             <td>
                 @Html.DisplayFor(modelItem => item.Age)
             </td>
-                <th>@item.CalculateScore()</th>
+                
             <td>
                 @Html.DisplayFor(modelItem => item.Occupation)
             </td>
-                <th>@item.CalculateScore()</th>
+                
             <td>
                     @Html.DisplayFor(modelItem => item.Monthly_salary)
             </td>
-                <th>@item.CalculateScore()</th>
+                
             <td>
                 @Html.DisplayFor(modelItem => item.Mood)
             </td>
-                <th>@item.CalculateScore()</th>
+                
             <td>
                 @Html.DisplayFor(modelItem => item.Personality)
             </td>
-                <th>@item.CalculateScore()</th>
+                
             <td>
                 @Html.DisplayFor(modelItem => item.Familybond)
             </td>
-                <th>@item.CalculateScore()</th>
+                
             <td>
                 @Html.DisplayFor(modelItem => item.LastUpdated)
             </td>
-                <th>@item.CalculateScore()</th>
+                
             <td>
                 <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.Id">Details</a> |

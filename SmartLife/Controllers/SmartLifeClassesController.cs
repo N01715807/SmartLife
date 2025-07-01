@@ -1,4 +1,5 @@
 ﻿using SmartLife.Models;
+using SmartLife.Helpers;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,9 +21,23 @@ namespace SmartLife.Controllers
         }
 
         // GET: SmartLifeClasses
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string? sortorder)
         {
-            return View(await _context.SmartLives.ToListAsync());
+            var smartlifesort = await _context.SmartLives.ToListAsync();
+
+            switch (sortorder) 
+            {
+                case "score_desc":
+                    smartlifesort = smartlifesort.OrderByDescending(s => Utils.CalculateScore(s)).ToList();
+                    break;
+                case "score_asc":
+                    smartlifesort = smartlifesort.OrderBy(s => Utils.CalculateScore(s)).ToList();
+                    break;
+                default:
+                    smartlifesort = smartlifesort.OrderBy(s => s.Name).ToList();
+                    break;
+            }
+            return View(smartlifesort);
         }
 
         // GET: SmartLifeClasses/Details/5

@@ -18,44 +18,15 @@ namespace SmartLife.Models
         [Required(ErrorMessage = "Monthly_salary is required")]
         public required decimal Monthly_salary { get; set; }
 
-        public required string Mood { get; set; }
+        public required MoodType Mood { get; set; }
 
-        public required string Personality { get; set; }
+        public required PersonalityType Personality { get; set; }
 
         [Range(0, 30, ErrorMessage = "Familybond is required")]
         public required int Familybond { get; set; }
 
         public DateTime LastUpdated { get; set; }
 
-        public int CalculateScore()
-        {
-            int score = 0;
-            int agescore = 30 - Math.Abs(Age - 30);
-            if (agescore < 0)
-                agescore = 0;
-            score += agescore;
-
-            score = score + (int)Math.Min(Monthly_salary / 1000, 30);
-
-            var moodscore = new Dictionary<string,int>
-            {
-                {"happy",10},
-                {"excited",8},
-                {"calm",5},
-                {"nature",0},
-                {"anxious",-5},
-                {"sad",-8},
-                {"angry",-10}
-            };
-            if (moodscore.ContainsKey(Mood.ToLower())) 
-            {
-                score = score + moodscore[Mood.ToLower()];
-            }
-
-            score = score + Familybond;
-
-            return score;
-        }
     }
 }
 
