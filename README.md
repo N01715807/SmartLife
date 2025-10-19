@@ -20,3 +20,8 @@ Beyond its surface, SmartLife is a backend-driven application emphasizing clean 
 - Razor Views
 - MySQL
 - Visual Studio / .NET 8
+
+## Notes
+- This repository is intended solely for academic and self-learning purposes.  
+- All materials are individual practice works and not for commercial use.
+
