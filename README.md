@@ -1,12 +1,12 @@
 # SmartLife 🌱  
 SmartLife is a personal side project I created for fun and practice. It’s a virtual life management system built with ASP.NET Core MVC and MySQL. The app allows users to create, edit, and manage simple digital profiles that simulate basic human traits like mood, occupation, personality, and wealth.
 
-## ✨ Overview
+## Overview
 This project showcases a lightweight life simulation platform, where each digital entity represents a character in a simplified world. Users can view, create, update, and delete characters through a clean, structured MVC web interface.
 
 Beyond its surface, SmartLife is a backend-driven application emphasizing clean architecture, data handling, and extendable logic design — suitable for further development into habit tracking tools, or personality-based recommendation engines.
 
-## 💡 Core Features
+## Core Features
 - 🧍‍♂️ Character CRUD operations (Create, Read, Update, Delete)
 - 🧠 Built-in traits: Mood, Personality, Occupation, Wealth, Bond
 - 📈 Dynamic server-side logic: validation, score logic (planned)
@@ -14,7 +14,7 @@ Beyond its surface, SmartLife is a backend-driven application emphasizing clean 
 - 🖼 Razor View templates for dynamic page rendering
 - 🎨 Ready for Bootstrap-based UI customization
 
-## 🧰 Tech Stack
+## Tech Stack
 - ASP.NET Core MVC (C#)
 - Entity Framework Core (MySQL with Pomelo)
 - Razor Views
