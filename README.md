@@ -1,4 +1,4 @@
-# SmartLife 🌱  
+# SmartLife 🌱 - Small practice projects for learning purposes.
 SmartLife is a personal side project I created for fun and practice. It’s a virtual life management system built with ASP.NET Core MVC and MySQL. The app allows users to create, edit, and manage simple digital profiles that simulate basic human traits like mood, occupation, personality, and wealth.
 
 ## Overview
